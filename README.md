@@ -53,3 +53,11 @@ Você pode utilizar esse código. Caso o faça, nos informe.
 [vss-sdk-trello]: https://trello.com/b/b4dVV6ug/vss-sdk
 [slack]: https://vss-sdk.slack.com
 [wiki]: https://github.com/SIRLab/VSS-Core/wiki
+
+
+## Como contribuir com este projeto
+
+Para contribuir neste projeto é necessário seguir os passos abaixo:
+- Crie uma branch arbitrária partindo da branch _develop_;
+- Faça seu código brilhante;
+- Abra um PR subindo as suas alterações para a branch _develop_.
